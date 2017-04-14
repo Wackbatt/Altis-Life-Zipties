@@ -1,0 +1,13 @@
+//Add this to your description.ext
+
+class ziptie {
+    name = "ziptie";
+    sound[] = {"\sounds\ziptie.ogg", 1.0, 1};
+    titles[] = {};
+};
+
+class gag {
+    name = "gag";
+    sound[] = {"\sounds\gag.ogg", 1.0, 1};
+    titles[] = {};
+};
