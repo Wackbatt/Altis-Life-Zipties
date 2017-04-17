@@ -1,23 +1,30 @@
 <Package name="zipties">
   <Key ID="STR_NOTF_ziptied">
       <Original>%1 was ziptied by someone.</Original>
+      <German>%1 wurde gefesselt.</German>
   </Key>
   <Key ID="STR_NOTF_unzipteed">
       <Original>%1 was cut loose.</Original>
+      <German>%1 wurde befreit.</German>
   </Key>
   <Key ID="STR_ExcessiveTied">
       <Original>You have been released automatically for excessive restrainment time</Original>
+      <German>Du wurdest automatisch frei gelassen.</German>
   </Key>
   <Key ID="STR_tied">
       <Original>You have been restrained by someone.</Original>
+      <German>Du wurdest gefesselt.</German>
   </Key>
   <Key ID="STR_Ziptie">
       <Original>Ziptie</Original>
+      <German>Fesseln</German>
   </Key>
   <Key ID="STR_gag">
       <Original>Gag</Original>
+      <German>Knebel</German>
   </Key>
   <Key ID="STR_blindfold">
       <Original>Blindfold</Original>
+      <German>Augenbinde</German>
   </Key>
 </Package>
