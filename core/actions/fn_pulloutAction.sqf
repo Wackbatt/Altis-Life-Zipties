@@ -8,7 +8,7 @@
 */
 private ["_crew"];
 _crew = crew cursorObject;
-
+if (player distance cursorTarget > 6) exitWith { Hint "Vehicle is too far away." };
 {
     if !(side _x isEqualTo west) then {
         _x setVariable ["transporting",false,true]; _x setVariable ["Escorting",false,true];
