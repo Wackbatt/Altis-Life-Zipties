@@ -14,10 +14,3 @@ if(player getVariable ["gagged",true]) then {
   5 enableChannel false;
   player setvariable ["gagged",true,true];
 };
-
-/*
-[] spawn {
- while {(player getvariable ["gagged",true])} do {
-   if (player getvariable ["ziptied",false]) exitwith { 5 enableChannel true; player setvariable ["gagged",false,true]; };
- };
-};
