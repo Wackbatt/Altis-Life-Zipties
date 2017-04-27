@@ -70,5 +70,4 @@ if(handgunWeapon player != "") then
 	}forEach _items;
 }forEach [_handguns, _primaryweapons, _secondaryweapons];
 
-player say3D "Patdown";
 [3] spawn SOCK_fnc_updatePartial;
