@@ -12,7 +12,7 @@ if (playerSide isEqualTo civilian && {player getVariable ["isEscorting",false]})
 };
 
 /*
-add the folling below
+add the following below
 
 if ((_curObject getVariable ["restrained",false]) && !dialog && playerSide isEqualTo west) then {
     [_curObject] call life_fnc_copInteractionMenu;
