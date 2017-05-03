@@ -15,5 +15,6 @@ Features:
 * Sounds and icons included. 
 
 Install should be fairly straight forward so long as you follow the instructions given. Posted on Altisliferpg.com and armarpglife.com. 
+https://www.altisliferpg.com/topic/2544-release-zipties-blindfolds-and-gags-44r3/
 
 **Have fun**
