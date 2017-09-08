@@ -1,3 +1,5 @@
+//Add this to the vitem config. Don't forget to add them to the shop.
+
 class ziptie {
     variable = "ziptie";
     displayName = "STR_Ziptie";

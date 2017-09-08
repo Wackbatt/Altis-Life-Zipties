@@ -1,4 +1,4 @@
-//Add this to your description.ext
+//Add this to the CfgSounds part of your description.ext
 
 class ziptie {
     name = "ziptie";

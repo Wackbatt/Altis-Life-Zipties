@@ -1,4 +1,4 @@
-//Add this at the bottom
+//Add this to the very bottom of the file, underneath the the 'life' section. For the love of god please do this. 
 
 class zipties {
     tag = "zipties";

@@ -1,4 +1,4 @@
-//add this in the client section 
+//Add the following to the CLIENT section of CfgRemoteExec
 
 F(zipties_fnc_zip_tie,CLIENT)
 F(zipties_fnc_zip_gagplayer,CLIENT)
