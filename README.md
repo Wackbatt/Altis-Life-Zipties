@@ -14,7 +14,7 @@ Features:
 * Patdown function for stipping players of items like guns, mags, attachments etc. (Based off the script by Scotty from Realmenofgenius).
 * Sounds and icons included. 
 
-Install should be fairly straight forward so long as you follow the instructions given. Posted on Altisliferpg.com and armarpglife.com. 
+Install should be fairly straight forward so long as you follow the instructions given. Posted on Altisliferpg.com. 
 https://www.altisliferpg.com/topic/2544-release-zipties-blindfolds-and-gags-44r3/
 
 **Have fun**
